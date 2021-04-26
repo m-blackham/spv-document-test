@@ -1,0 +1,9 @@
+baseURL = "/"
+disqusShortname = ""
+googleAnalytics = ""
+paginate = "3"
+summaryLength = "15"
+theme = "bigspring"
+title = "Custom SPV Documents"
+[markup.goldmark.renderer]
+unsafe = true
